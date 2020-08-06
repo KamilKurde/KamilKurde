@@ -9,11 +9,9 @@ Obecnie uczę się:
 <img align="left" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"> Discord: Kamil#6904
 
 ---
-<div align="center>
-	<img alt="Moje statystyki" src="https://github-readme-stats.vercel.app/api?username=NejekV2&hide=stars,prs,issues&show_icons=true"/>
-</div>
 
-<img align="middle" alt="Moje Języki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NejekV2&hide=javascript&layout=compact"/>
+	<img alt="Moje statystyki" src="https://github-readme-stats.vercel.app/api?username=NejekV2&hide=stars,prs,issues&show_icons=true"/>
+	<img alt="Moje Języki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NejekV2&hide=javascript&layout=compact"/>
 
 <br />
 <br />
