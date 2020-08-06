@@ -6,9 +6,7 @@ Obecnie uczę się:
 - <img align="left" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/blender.svg"> Blendera
 
 ### Kontakt
-<img align="left" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"> Discord: [discord]
+<img align="left" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"> Discord: Kamil#6904
 
 <br />
 <br />
-
-[discord]: Kamil#6904
