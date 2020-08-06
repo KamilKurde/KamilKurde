@@ -11,7 +11,7 @@ Obecnie uczę się:
 ---
 
 <img align="center" alt="Moje statystyki" src="https://github-readme-stats.vercel.app/api?username=NejekV2&hide=stars,prs,issues&show_icons=true"/>
-<img align="center" alt="Moje Języki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NejekV2&hide=js&layout=compact"/>
+<img align="center" alt="Moje Języki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NejekV2&hide=javascript&layout=compact"/>
 
 <br />
 <br />
