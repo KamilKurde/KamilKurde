@@ -4,9 +4,9 @@ Obecnie uczę się:
 
 A ogarniam: 
 <br>
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-766DB2?style=for-the-badge&logo=Kotlin&logoColor=white)
 <br>
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=Android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-78C257?style=for-the-badge&logo=Android&logoColor=white)
 <br>
 ![C#](https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br>
@@ -15,7 +15,7 @@ A ogarniam:
 ### Kontakt
 <br>
 
-![Discord](https://img.shields.io/badge/Discord-Kamil%236904-brightgreen?style=for-the-badge&logo=Discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Kamil%236904-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 <br>
 
 ---
