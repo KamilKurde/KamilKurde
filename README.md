@@ -1,4 +1,5 @@
 Obecnie uczę się:
+- ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 - ![Unreal Engine 4](https://img.shields.io/badge/UE4-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 A ogarniam: 
