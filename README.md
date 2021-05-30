@@ -1,5 +1,5 @@
 Obecnie uczę się:
-- ![Unreal Engine 4](https://img.shields.io/badge/unrealengine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)<img align="left" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unrealengine.svg"/> Unreal Engine 4
+- ![Unreal Engine 4](https://img.shields.io/badge/unrealengine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 A ogarniam: 
 - <img align="left" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kotlin.svg"/> Kotlina
