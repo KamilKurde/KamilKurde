@@ -4,11 +4,11 @@ Obecnie uczę się:
 A ogarniam: 
 - ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=Kotlin&logoColor=white)
 - ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=Android&logoColor=white)
-- ![C#](https://img.shields.io/badge/c_sharp-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
+- ![C#](https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
 - ![Unit](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Kontakt
-![Discord](https://img.shields.io/badge/Discord-Kamil-brightgreen?style=for-the-badge&logo=Discord&logoColor=white)Kamil#6904
+![Discord](https://img.shields.io/badge/Discord-Kamil%236904-brightgreen?style=for-the-badge&logo=Discord&logoColor=white)
 
 ---
 
