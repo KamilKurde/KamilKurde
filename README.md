@@ -13,5 +13,5 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=KamilKurde&hide=stars,issues&show_icons=true&hide_border=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKurde&hide=javascript&layout=compact&hide_border=true&theme=dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KamilKurde&layout=compact&hide=stars,issues&show_icons=true&hide_border=true&theme=dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKurde&layout=compact&hide=hlsl,shaderlab&langs_count=10&hide_border=true&theme=dark"/>
