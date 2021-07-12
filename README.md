@@ -13,5 +13,5 @@
 
 ---
 
-<img align="left" alt="Moje statystyki" src="https://github-readme-stats.vercel.app/api?username=KamilKurde&hide=stars,prs,issues&show_icons=true"/>
-<img align="left" alt="Moje Języki" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKurde&hide=javascript&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KamilKurde&hide=stars,issues&show_icons=true&hide_border=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKurde&hide=javascript&layout=compact&hide_border=true&theme=dark"/>
