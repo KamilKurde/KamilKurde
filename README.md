@@ -1,3 +1,5 @@
+![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)
+
 ### Mobile Front-end
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
