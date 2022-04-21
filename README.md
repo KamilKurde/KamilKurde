@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://kamilbak.pl)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://kamilbak.dev)
 
 ### Mobile Front-end
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
