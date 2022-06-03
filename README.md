@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge)](https://kamilbak.dev)
 
-### Mobile Front-end
+### Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
