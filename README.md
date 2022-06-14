@@ -27,5 +27,5 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KamilKurde&layout=compact&hide=stars,issues&show_icons=true&hide_border=true&theme=dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KamilKurde&layout=compact&hide=stars,issues&show_icons=true&hide_border=true&theme=dark&count_private=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKurde&layout=compact&hide=hlsl,shaderlab&langs_count=10&hide_border=true&theme=dark"/>
