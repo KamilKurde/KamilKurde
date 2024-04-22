@@ -26,5 +26,5 @@
 
 ---
 
-<img align="center" src="https://readme-stats-kamilkurde.vercel.app//api?username=KamilKurde&layout=compact&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true&hide_border=true&theme=transparent&custom_title=My+GitHub+Activity"/>
+<img align="center" src="https://readme-stats-kamilkurde.vercel.app/api?username=KamilKurde&layout=compact&hide=stars,issues,contribs&show=reviews,prs_merged_percentage&show_icons=true&hide_border=true&theme=transparent&custom_title=My+GitHub+Activity"/>
 <img align="center" src="https://readme-stats-kamilkurde.vercel.app/api/top-langs/?username=KamilKurde&exclude_repo=readme-stats,SpaceShips_2&size_weight=0.3&count_weight=0.7&layout=compact&hide=hlsl,shaderlab&langs_count=10&hide_border=true&theme=transparent"/>
